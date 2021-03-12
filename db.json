@@ -71,14 +71,6 @@
             "size": "23cm",
             "price": 18900,
             "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/fudge_cake.jpg"
-        },
-        {
-            "id": 10,
-            "title": "Spice cake",
-            "previewDescription": "Spice cake is traditionally flavored with a mixture of spices.",
-            "size": "18cm",
-            "price": 21500,
-            "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/spice_cake.jpg"
         }
     ],
     "cakeDetails": [
@@ -189,18 +181,6 @@
             "price": 18900,
             "lastPrice": 19900,
             "delivery": true
-        },
-        {
-            "id": 10,
-            "title": "Spice cake",
-            "previewDescription": "Spice cake is traditionally flavored with a mixture of spices.",
-            "detailDescription": "Spice cake is traditionally flavored with a mixture of spices. The cake can be prepared in many varieties. Predominant flavorings include spices such as cinnamon, cloves.",
-            "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/spice_cake.jpg",
-            "shape": "square",
-            "size": "18cm",
-            "price": 21500,
-            "lastPrice": 25500,
-            "delivery": false
         }
     ]
 }
